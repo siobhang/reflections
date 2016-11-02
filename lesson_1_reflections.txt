@@ -1,0 +1,9 @@
+less to review
+change clearly identified
+
+identify when critical error introduced
+
+Allows logic points to be picked
+Prevents too frequent / too infrequent commits
+
+Allows you to compare any two saved versions
